@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813370372349",
+    "project_id": "student-management-syste-8475b",
+    "storage_bucket": "student-management-syste-8475b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813370372349:android:550f18d8c2dfb257dfce94",
+        "android_client_info": {
+          "package_name": "com.akameisk.smsuitm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSKLPpZfuGHU2yHb4eDsmNl3dP3Vlan0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
